@@ -11,6 +11,9 @@ from droid.misc.server_interface import ServerInterface
 from droid.misc.time import time_ms
 from droid.misc.transformations import change_pose_frame
 
+from droid.controllers.controller import Controller, ControllerConfig
+from droid.controllers.robot_utils import Proprio
+
 
 class RobotEnv(gym.Env):
     def __init__(self, action_space="cartesian_velocity", gripper_action_space=None, camera_kwargs={}, do_reset=True):
@@ -45,6 +48,12 @@ class RobotEnv(gym.Env):
         # Reset Robot
         if do_reset:
             self.reset()
+
+        self.controller = Controller(ControllerConfig())
+
+    def observe_proprio(self) -> Proprio:
+        return self.controller.get_proprio()
+
 
     def step(self, action):
         # Check Action

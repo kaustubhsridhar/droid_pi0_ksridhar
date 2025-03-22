@@ -259,7 +259,7 @@ def main(args: Args):
                     server_request_start = time.time()
                     with prevent_keyboard_interrupt():
                         # this returns action chunk [10, 8] of 10 joint velocity actions (7) + gripper position (1)
-                        pred_action_chunk = policy_client.infer(request_data)["actions"]
+                        pred_action_chunk = policy_client.infer(request_data)["actions"] # TODO: The action is computed here. 
                     server_request_duration = time.time() - server_request_start
                     assert pred_action_chunk.shape == (10, 8)
                     
@@ -404,7 +404,7 @@ def main(args: Args):
                     fig.canvas.draw_idle()
                     fig.canvas.flush_events()
 
-                env.step(action) # droid actually apply the action
+                env.step(action)
             except KeyboardInterrupt:
                 break
 

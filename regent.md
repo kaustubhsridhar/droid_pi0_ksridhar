@@ -2,6 +2,10 @@ ckpt5400longer-0317pokepandata-1
 
 ckpt5400longer-0317poketraydata-1
 
+pick up the racket and do a serve motion
+
+pick up the pan and swing it like a badminton serve
+
 pick up the poke ball and put it in the tray
 
 put the poke ball in the pan

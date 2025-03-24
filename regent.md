@@ -1,13 +1,19 @@
-finetune-pokeball-ckpt999-3
-
-finetune-idli-plate-ckpt999-1
+ckpt5400longer-0324pinerackdata-1
 
 
-pick up the poke ball and put it in the tray
+finetune-idli-plate-ckpt999-DYNAMIC3
+
+
+finetune-pokeball-ckpt999-DYNAMIC
+
+
+move the pineapple to the other racket
 
 
 move the idli plate to the right
 
+
+pick up the poke ball and put it in the tray
 
 
 
@@ -22,7 +28,7 @@ move the idli plate to the right
 
 ckpt5400longer-0317pokepandata-1
 
-ckpt5400longer-0317poketraydata-1
+ckpt5400longer-0317poketraydata-12
 
 ckpt5400longer-0322lanterndata-1
 

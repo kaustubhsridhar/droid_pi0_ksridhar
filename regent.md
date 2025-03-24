@@ -1,6 +1,38 @@
+finetune-pokeball-ckpt999-3
+
+finetune-idli-plate-ckpt999-1
+
+
+pick up the poke ball and put it in the tray
+
+
+move the idli plate to the right
+
+
+
+
+
+
+
+
+
+
+
+
+
 ckpt5400longer-0317pokepandata-1
 
 ckpt5400longer-0317poketraydata-1
+
+ckpt5400longer-0322lanterndata-1
+
+move the oil lamp from one racket to the other
+
+pick up the bottle of water and put it in the container
+
+pick up the flower and the vase and move it to the tray
+
+pick up the lantern and place it in the tray
 
 pick up the racket and do a serve motion
 

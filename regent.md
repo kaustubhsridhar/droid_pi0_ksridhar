@@ -1,13 +1,16 @@
-ckpt5400longer-0324pinerackdata-1
+ckpt5400longer-0324moverackdata-1
 
 
 finetune-idli-plate-ckpt999-DYNAMIC3
 
 
-finetune-pokeball-ckpt999-DYNAMIC
+finetune-pokeball-ckpt999-DYNAMIC\
 
 
-move the pineapple to the other racket
+pick up the squeegee and drag it forwards
+
+
+move the racket to the left
 
 
 move the idli plate to the right

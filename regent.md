@@ -4,10 +4,21 @@ ckpt5400longer-0324moverackdata-1
 finetune-idli-plate-ckpt999-DYNAMIC3
 
 
-finetune-pokeball-ckpt999-DYNAMIC\
+finetune-pokeball-ckpt999-DYNAMIC
+
+ckpt5400longer-0327squeegeedata-1
 
 
-pick up the squeegee and drag it forwards
+move the squeegee to the right and try to drag it
+
+
+pick up the squeegee and drag it towards you
+
+
+pick up the squeegee and move it to the left
+
+
+move the squeegee from the bowl to the tray
 
 
 move the racket to the left

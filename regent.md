@@ -14,9 +14,10 @@ finetune-squeegee-ckpt999-11
 
 finetune-squeegee-ckpt999-DYNAMIC4
 
+finetune-squeegee-ckpt999-phonecamera
+
 
 move the squeegee to the right and try to drag it
-
 
 
 

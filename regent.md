@@ -6,10 +6,23 @@ finetune-idli-plate-ckpt999-DYNAMIC3
 
 finetune-pokeball-ckpt999-DYNAMIC
 
-ckpt5400longer-0327squeegeedata-1
+ckpt5400longer-0327squeegeedata-12
+
+rnp-0327squeegeedata-12
+
+finetune-squeegee-ckpt999-11
+
+finetune-squeegee-ckpt999-DYNAMIC4
 
 
 move the squeegee to the right and try to drag it
+
+
+
+
+
+
+
 
 
 pick up the squeegee and drag it towards you

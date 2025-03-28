@@ -1,3 +1,37 @@
+
+
+
+ckpt5400longer-idli-plate-phonecamera
+move the idli plate to the right
+
+
+ckpt5400longer-pokeball-phonecamera
+pick up the poke ball and put it in the tray
+
+
+ckpt5400longer-squeegee-phonecamera
+move the squeegee to the right and try to drag it
+
+
+
+
+
+
+
+rnp-idli-plate-ablation-10demos-12
+
+ckpt5400longer-idli-plate-ablation-10demos-11
+
+finetune-idli-plate-ablation-ckpt999-10demos-12
+
+
+move the idli plate to the right
+
+
+
+
+
+
 ckpt5400longer-0324moverackdata-1
 
 
@@ -38,11 +72,14 @@ move the squeegee from the bowl to the tray
 move the racket to the left
 
 
+finetune-idli-plate-ckpt999-phonecamera
+
 move the idli plate to the right
 
 
-pick up the poke ball and put it in the tray
+finetune-pokeball-ckpt999-phonecamera2
 
+pick up the poke ball and put it in the tray
 
 
 

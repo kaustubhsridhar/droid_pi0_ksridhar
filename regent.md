@@ -1,4 +1,34 @@
 
+finetune_bagel_4
+
+pick up the bagel and put it in the toaster
+
+
+finetune_lever_1
+
+push the lever on the toaster
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ckpt5400longer-idli-plate-phonecamera
